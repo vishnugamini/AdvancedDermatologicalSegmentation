@@ -74,11 +74,6 @@ The effectiveness of our model is further illustrated by the following examples,
 
 This research makes a significant academic contribution to the field of skin cancer detection. By improving the precision and early diagnosis capabilities of the model, it has the potential to positively impact clinical outcomes, enabling earlier and more accurate treatment of skin cancer.
 
-## References
-
-- ISIC Dataset: [Link to Dataset]
-- TensorFlow Documentation: [Link to Documentation]
-
 ## Usage Instructions
 
 To use this model, follow these steps:
