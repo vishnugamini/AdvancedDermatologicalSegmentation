@@ -1,6 +1,6 @@
 # Advanced Skin Cancer Detection using Enhanced U-Net with SE and CBAM
 
-This project focuses on enhancing skin cancer detection by developing a cutting-edge model that integrates Squeeze-and-Excite (SE) blocks and Convolutional Block Attention Modules (CBAM) into a U-Net architecture. Our innovative approach significantly improves the precision of segmenting skin cancer lesions, particularly those with complex and irregular shapes.
+This project focuses on enhancing skin cancer detection by developing a cutting-edge model that integrates Squeeze-and-Excite (SE) blocks, Convolutional Block Attention Modules (CBAM) and Multi-Head Attetion into a U-Net architecture. Our innovative approach significantly improves the precision of segmenting skin cancer lesions, particularly those with complex and irregular shapes.
 
 ## Key Contributions
 
