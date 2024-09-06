@@ -74,14 +74,6 @@ The effectiveness of our model is further illustrated by the following examples,
 
 This research makes a significant academic contribution to the field of skin cancer detection. By improving the precision and early diagnosis capabilities of the model, it has the potential to positively impact clinical outcomes, enabling earlier and more accurate treatment of skin cancer.
 
-## Usage Instructions
-
-To use this model, follow these steps:
-
-1. Clone the repository: `git clone git clone https://github.com/vishnugamini/AdvancedDermatologicalSegmentation`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the model on your data
-
 ## Future Work
 
 Future enhancements could include further optimizing the model for real-time processing, expanding the dataset to include more diverse skin types, and exploring additional architectural improvements.
